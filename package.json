@@ -7,7 +7,7 @@
     "@types/vinyl": "^2.0.4",
     "istextorbinary": "^3.0.0",
     "replacestream": "^4.0.3",
-    "yargs-parser": ">=5.0.0-security.0"
+    "yargs-parser": "^21.0.1"
   },
   "devDependencies": {
     "concat-stream": "^2.0.0",
@@ -25,7 +25,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lazd/gulp-replace.git"
+    "url": "https://github.com/shreyasch/gulp-replace.git"
   },
   "keywords": [
     "gulpplugin",
